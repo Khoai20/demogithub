@@ -1,0 +1,1 @@
+var x = document.getElementsById("so1").value
