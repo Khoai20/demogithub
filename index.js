@@ -1,2 +1,1 @@
-var x = document.getElementsById("so1").value
-var y =100
+var cmt ="loi nhan trung "
