@@ -1,5 +1,3 @@
 var cmt ="loi nhan trung "
-
+a
 ádssss
-
-abcdsadfáađfádfádfádf
